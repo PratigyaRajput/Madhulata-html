@@ -72,7 +72,7 @@ font-size: .9375rem;
 }
 .navbar-dark .navbar-toggler {
     color: rgba(255,255,255,.5);
-    border-color: rgb(255 193 7);
+    border-color: rgb(255,193,7);
     background: #ffc107;
 }
 .support {
@@ -80,8 +80,8 @@ font-size: .9375rem;
 }
 
 .navbar-dark .navbar-toggler {
-    color: rgb(9 8 8);
-    border-color: rgb(0 0 0);
+    color: rgb(9,8,8);
+    border-color: rgb(0,0,0);
 }
 .header-bottom h1 {
     font-size: 2.1875rem;
@@ -217,7 +217,7 @@ font-size: .9375rem;
 }
 .btn1 {
     border: none;
-    padding: 20p;
+    padding: 20px;
     /* width: 205px; */
     /* height: 50px; */
     background-color: #0051a8;
@@ -249,7 +249,7 @@ font-size: .9375rem;
      
 	
 	
-	padding-bottom: 16px;
+    padding-bottom: 16px;
     padding-top: 18px;
     position: relative;
     margin-bottom: 50px;
@@ -270,7 +270,7 @@ font-size: .9375rem;
 .imprstn-mttr .container h3 {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 600;
-    font-style:italic ;
+    font-style:italic;
     font-size: 23px;
 }
 .imprstn-mttr .container p {
@@ -301,7 +301,7 @@ font-size: .9375rem;
 .orange-ban .container {
     max-width: 1170px;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 .orange-ban .container h2 {
    
@@ -490,7 +490,7 @@ width: 142px;
 }
 .lower-footer .container .first img {
     width: 100px;
-    height: 300p;
+    height: 300px;
     margin-top: -55px;
 } 
 .lower-footer .container .third .third3 {
@@ -534,9 +534,7 @@ width: 142px;
     .three-sec .container .first {
         display: none;
     }
-    .three-sec .container .second .first-img {
-        display: none;
-    }
+    .three-sec .container .second .first-img,
     .three-sec .container .second .second-img {
         display: none;
     }
